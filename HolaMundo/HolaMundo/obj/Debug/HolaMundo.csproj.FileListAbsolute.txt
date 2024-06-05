@@ -1,0 +1,7 @@
+D:\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+D:\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+D:\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+D:\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+D:\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+D:\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+D:\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
